@@ -344,7 +344,7 @@ GEM
       thor (>= 0.18.1, < 2.0)
     rainbow (2.2.2)
       rake
-    rake (12.0.0)
+    rake (12.3.3)
     redis (3.3.3)
     redis-actionpack (5.0.1)
       actionpack (>= 4.0, < 6)
